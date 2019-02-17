@@ -19,6 +19,8 @@
 
 ## MongoDB_Modelling
 
+![picture](https://github.com/cph-ap228/MongoDB_Assignment_3/blob/master/Queries/Model.png)
+
 ### Arrays of Ancestors 
 * Atomicity 
   * The write operations are considered antomic since we're only carrying out operations on a single document. 
